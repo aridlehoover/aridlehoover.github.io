@@ -21,7 +21,7 @@ Brian’s work categorized tests by asking two questions:
 
 When you combine the two questions (or axes), you get a grid (or matrix), like this one:
 
-<img src="/img/posts/marick1.png">
+<img src="/img/posts/Marick1.png">
 
 But, what the heck do these things mean? That’s what the remainder of this post is about&hellip;
 
@@ -84,7 +84,7 @@ Performance tests are used to determine the speed of an application within a spe
 
 My blog editor now tells me that I’m approaching 1000 words. So, to prove the axiom, here’s the best summary I can think of:
 
-<img src="/img/posts/marick2.png">
+<img src="/img/posts/Marick2.png">
 
 That’s enough for one day. In a subsequent post, I’ll dive into why it’s important to cover all four quadrants.
 
