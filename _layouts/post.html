@@ -1,9 +1,13 @@
 ---
 layout: default
 ---
-<h2>{{ page.title }}</h2>
-<p class="meta">{{ page.date | date_to_string }}</p>
-
-<div class="post">
-{{ content }}
-</div>
+<article>
+  <time>{{ page.date | date: "%B %-d, %Y at %-I:%M %p" }}</time>
+  <h1>{{ page.title }}</h1>
+  {{ content }}
+  <aside class="metadata">
+    {% for tag in page.tags %}
+    <p><a href="/{{ tag | slugize }}/">{{ tag }}</a></p>
+    {% endfor %}
+  </aside>
+</article>
