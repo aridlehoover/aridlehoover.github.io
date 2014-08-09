@@ -5,9 +5,9 @@ layout: default
   <time>{{ page.date | date: "%B %-d, %Y at %-I:%M %p" }}</time>
   <h1>{{ page.title }}</h1>
   {{ content }}
-  <aside class="metadata">
+  <!-- <aside class="metadata">
     {% for tag in page.tags %}
     <p><a href="/{{ tag | slugize }}/">{{ tag }}</a></p>
     {% endfor %}
-  </aside>
+  </aside> -->
 </article>
