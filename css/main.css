@@ -70,13 +70,9 @@ header a {
   top: -28px;
 }
 
-main {
-}
-
 time {
   color: #888;
   font-size: 12px;
-
 }
 
 code {
@@ -85,111 +81,3 @@ code {
   padding: 3px;
   margin: 0 1em;
 }
-
-/*.posts {
-  list-style-type: none;
-  margin-bottom: 2em;
-}
-
-.posts li {
-  line-height: 1.75em;
-}
-
-.posts span {
-  color: #aaa;
-  font-family: Monaco, "Courier New", monospace;
-  font-size: 80%;
-}*/
-
-/*****************************************************************************/
-/*
-/* Site
-/*
-/*****************************************************************************/
-
-/*
-.metadata {
-  color: #aaa;
-  font-style: italic;
-  font-size: 14px;
-  line-height: 18px;
-  width: 215px;
-  padding-top: 4em;
-  float: left;
-}
-
-.metadata ul {
-  margin: 0;
-  padding: 0;
-}
-
-.metadata ul li {
-  list-style: none;
-  text-align: right;
-  padding-right: 20px;
-}
-
-.footer {
-  font-size: 80%;
-  color: #666;
-  border-top: 4px solid #eee;
-  margin-top: 2em;
-  overflow: hidden;
-}
-
-.footer .contact {
-  float: left;
-  margin-right: 3em;
-}
-
-.footer .contact a {
-  color: #8085C1;
-}
-
-.footer .rss {
-  margin-top: 1.1em;
-  margin-right: -.2em;
-  float: right;
-}
-
-.footer .rss img {
-  border: 0;
-}*/
-
-/*****************************************************************************/
-/*
-/* Posts
-/*
-/*****************************************************************************/
-
-/* standard */
-/*.post pre {
-  border: 1px solid #ddd;
-  background-color: #eef;
-  padding: 0 .4em;
-}
-
-.post ul, .post ol {
-  margin-left: 1.35em;
-}
-
-.post code {
-  border: 1px solid #ddd;
-  background-color: #eef;
-  padding: 0 .2em;
-}
-
-.post pre code {
-  border: none;
-}*/
-
-/* terminal */
-/*.post pre.terminal {
-  border: 1px solid #000;
-  background-color: #333;
-  color: #FFF;
-}
-
-.post pre.terminal code {
-  background-color: #333;
-}*/
