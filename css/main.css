@@ -7,6 +7,8 @@ a             { color: #0F802A; text-decoration: none; }
 a:hover       { color: #14ba41; text-decoration: underline; }
 li            { margin-left: 2em; }
 li:last-child { margin-bottom: 1em; }
+blockquote    { margin: 0 0 1em 1em; padding-left: 1em; border-left: 3px solid #0F802A; }
+blockquote p:last-child { padding-bottom: 0; }
 
 .wrapper {
   margin: 0 auto;
